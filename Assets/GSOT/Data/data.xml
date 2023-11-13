@@ -1,0 +1,41 @@
+<ArGpsLocationData>
+  <Entry>
+    <id>0</id>
+    <altitude>0</altitude>
+    <altitudeMode>DeviceRelative</altitudeMode>
+    <name>Knight Standing1</name>
+    <meshId>Zombie</meshId>
+    <movementSmoothing>0,05</movementSmoothing>
+    <maxNumberOfLocationUpdates>2</maxNumberOfLocationUpdates>
+    <useMovingAverage>false</useMovingAverage>
+    <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+    <lat>53.121145</lat>
+    <lng>23.150332</lng>
+  </Entry>
+  <!--<Entry>
+    <id>1</id>
+    <lat>53.121150</lat>
+    <lng>23.150327</lng>
+    <altitude>0</altitude>
+    <altitudeMode>DeviceRelative</altitudeMode>
+    <name>Knight Standing2</name>
+    <meshId>Zombie</meshId>
+    <movementSmoothing>0,05</movementSmoothing>
+    <maxNumberOfLocationUpdates>2</maxNumberOfLocationUpdates>
+    <useMovingAverage>false</useMovingAverage>
+    <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+  </Entry>
+  <Entry>
+    <id>2</id>
+    <lat>53.121134</lat>
+    <lng>23.150357</lng>
+    <altitude>0</altitude>
+    <altitudeMode>DeviceRelative</altitudeMode>
+    <name>Knight Standing3</name>
+    <meshId>Zombie</meshId>
+    <movementSmoothing>0,05</movementSmoothing>
+    <maxNumberOfLocationUpdates>2</maxNumberOfLocationUpdates>
+    <useMovingAverage>false</useMovingAverage>
+    <hideObjectUtilItIsPlaced>false</hideObjectUtilItIsPlaced>
+  </Entry>-->
+</ArGpsLocationData>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Resources>
+    <Entry>
+      <Key>Intro1</Key>
+      <Value>Hej!</Value>
+    </Entry>
+    <Entry>
+      <Key>Intro2</Key>
+      <Value>Witaj w GSOT</Value>
+    </Entry>
+    <Entry>
+      <Key>Intro3</Key>
+      <Value>Aplikacji, która pozwoli Ci zobaczyć świat rozszerzonej rzeczywistości!</Value>
+    </Entry>
+    <Entry>
+      <Key>DownloadingData</Key>
+      <Value>Pobieranie danych</Value>
+    </Entry>
+    <Entry>
+      <Key>AskForCamera1</Key>
+      <Value>Za chwilę zostaniesz poproszony o dostęp do kamery telefonu</Value>
+    </Entry>
+    <Entry>
+      <Key>AskForCamera2</Key>
+      <Value>Na obraz kamery zostaną nałożone elementy rozszerzonej rzeczywistości</Value>
+    </Entry>
+    <Entry>
+      <Key>Ready</Key>
+      <Value>Gotowy?</Value>
+    </Entry>
+    <Entry>
+      <Key>AskForLocation1</Key>
+      <Value>Za chwilę zostaniesz poproszony o udostępnienie swojej lokalizacji</Value>
+    </Entry>
+    <Entry>
+      <Key>AskForLocation2</Key>
+      <Value>Jest to niezbędne do odpowiedniego wyświetlenia obiektów na ekranie</Value>
+    </Entry>
+    <Entry>
+      <Key>DoWeStart</Key>
+      <Value>Zaczynamy?</Value>
+    </Entry>
+    <Entry>
+      <Key>AddLicense</Key>
+      <Value>Dodaj licencje</Value>
+    </Entry>
+    <Entry>
+      <Key>AllPlaces</Key>
+      <Value>Wszystkie miejsca</Value>
+    </Entry>
+    <Entry>
+      <Key>Close</Key>
+      <Value>Zamknij</Value>
+    </Entry>
+    <Entry>
+      <Key>TypeLicenseKey</Key>
+      <Value>Wprowadź kod licencji</Value>
+    </Entry>
+    <Entry>
+      <Key>LicenseCode</Key>
+      <Value>Kod licencji</Value>
+    </Entry>
+    <Entry>
+      <Key>Add</Key>
+      <Value>Dodaj</Value>
+    </Entry>
+    <Entry>
+      <Key>DemoEndingMsg</Key>
+      <Value>Koniec wersji demo #place# Kliknij aby kupic pelna wersje</Value>
+    </Entry>
+    <Entry>
+      <Key>Shop</Key>
+      <Value>Sklep</Value>
+    </Entry>
+    <Entry>
+      <Key>NoLicenseCode</Key>
+      <Value>Brak kodu licencji</Value>
+    </Entry>
+    <Entry>
+      <Key>DataDownloadError</Key>
+      <Value>Wystąpił problem z pobraniem danych z serwera. Sprawdź połączenie internetowe.</Value>
+    </Entry>
+    <Entry>
+      <Key>LicenseAdded</Key>
+      <Value>Aktywowano pełną wersję</Value>
+    </Entry>
+    <Entry>
+      <Key>Error</Key>
+      <Value>Wystąpił błąd</Value>
+    </Entry>
+    <Entry>
+      <Key>MyPlaces</Key>
+      <Value>Moje miejsca</Value>
+    </Entry>
+    <Entry>
+      <Key>LoadingModels</Key>
+      <Value>Wczytywanie modeli</Value>
+    </Entry>
+    <Entry>
+      <Key>ChangeViewDirection</Key>
+      <Value>Zmiana kierunku patrzenia</Value>
+    </Entry>
+    <Entry>
+      <Key>ModelLevel</Key>
+      <Value>Poziom modelu</Value>
+    </Entry>
+    <Entry>
+      <Key>BackToScenes</Key>
+      <Value>Powrót do scen</Value>
+    </Entry>
+    <Entry>
+      <Key>Table</Key>
+      <Value>Stół</Value>
+    </Entry>
+    <Entry>
+      <Key>Ground</Key>
+      <Value>Muzeum</Value>
+    </Entry>
+    <Entry>
+      <Key>Battle</Key>
+      <Value>Bitwa</Value>
+    </Entry>
+    <Entry>
+      <Key>Guide</Key>
+      <Value>Przewodnik</Value>
+    </Entry>
+    <Entry>
+      <Key>PlayingField</Key>
+      <Value>Boisko</Value>
+    </Entry>
+    <Entry>
+      <Key>PlaceTableOrientationPoints</Key>
+      <Value>Gdy zobaczysz wirtualną płaszczyznę wskaż dwa punkty z lewej strony.
+Scena uruchomi się automatycznie.</Value>
+    </Entry>
+    <Entry>
+      <Key>ScreenShotTaken</Key>
+      <Value>Zdjęcie zostało zrobione i zapisane</Value>
+    </Entry>
+    <Entry>
+      <Key>Open</Key>
+      <Value></Value>
+    </Entry>
+  </Resources>
+</Resource>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Resources>
+    <Entry>
+      <Key>Intro1</Key>
+      <Value>Hey!</Value>
+    </Entry>
+    <Entry>
+      <Key>Intro2</Key>
+      <Value>Welcome to the GSOT</Value>
+    </Entry>
+    <Entry>
+      <Key>Intro3</Key>
+      <Value>An application that allows you to see the world of augmented reality!</Value>
+    </Entry>
+    <Entry>
+      <Key>DownloadingData</Key>
+      <Value>Downloading data</Value>
+    </Entry>
+    <Entry>
+      <Key>AskForCamera1</Key>
+      <Value>In a moment you will be asked to access the phone camera</Value>
+    </Entry>
+    <Entry>
+      <Key>AskForCamera2</Key>
+      <Value>Augmented reality elements will be superimposed on the camera image</Value>
+    </Entry>
+    <Entry>
+      <Key>Ready</Key>
+      <Value>Ready?</Value>
+    </Entry>
+    <Entry>
+      <Key>AskForLocation1</Key>
+      <Value>In a moment you will be asked to share your location</Value>
+    </Entry>
+    <Entry>
+      <Key>AskForLocation2</Key>
+      <Value>This is necessary to properly display objects on the screen</Value>
+    </Entry>
+    <Entry>
+      <Key>DoWeStart</Key>
+      <Value>Shall we get started?</Value>
+    </Entry>
+    <Entry>
+      <Key>AddLicense</Key>
+      <Value>Add the licenses</Value>
+    </Entry>
+    <Entry>
+      <Key>AllPlaces</Key>
+      <Value>All places</Value>
+    </Entry>
+    <Entry>
+      <Key>Close</Key>
+      <Value>Close</Value>
+    </Entry>
+    <Entry>
+      <Key>TypeLicenseKey</Key>
+      <Value>Type the license code</Value>
+    </Entry>
+    <Entry>
+      <Key>LicenseCode</Key>
+      <Value>License code</Value>
+    </Entry>
+    <Entry>
+      <Key>Add</Key>
+      <Value>Add</Value>
+    </Entry>
+    <Entry>
+      <Key>DemoEndingMsg</Key>
+      <Value>End of demo version #place# Click to buy full version</Value>
+    </Entry>
+    <Entry>
+      <Key>Shop</Key>
+      <Value>Shop</Value>
+    </Entry>
+    <Entry>
+      <Key>NoLicenseCode</Key>
+      <Value>No licence code</Value>
+    </Entry>
+    <Entry>
+      <Key>DataDownloadError</Key>
+      <Value>There was a problem with downloading data from the server. Check your internet connection.</Value>
+    </Entry>
+    <Entry>
+      <Key>LicenseAdded</Key>
+      <Value>Full version active</Value>
+    </Entry>
+    <Entry>
+      <Key>Error</Key>
+      <Value>Error occured</Value>
+    </Entry>
+    <Entry>
+      <Key>MyPlaces</Key>
+      <Value>My places</Value>
+    </Entry>
+    <Entry>
+      <Key>LoadingModels</Key>
+      <Value>Loading models</Value>
+    </Entry>
+    <Entry>
+      <Key>ChangeViewDirection</Key>
+      <Value>Change looking direction</Value>
+    </Entry>
+    <Entry>
+      <Key>ModelLevel</Key>
+      <Value>Model level</Value>
+    </Entry>
+    <Entry>
+      <Key>BackToScenes</Key>
+      <Value>Back to scenes</Value>
+    </Entry>
+    <Entry>
+      <Key>Table</Key>
+      <Value>Table</Value>
+    </Entry>
+    <Entry>
+      <Key>Ground</Key>
+      <Value>Muzeum</Value>
+    </Entry>
+    <Entry>
+      <Key>Battle</Key>
+      <Value>Battle</Value>
+    </Entry>
+    <Entry>
+      <Key>Guide</Key>
+      <Value>Guide</Value>
+    </Entry>
+    <Entry>
+      <Key>PlayingField</Key>
+      <Value>Playing Field</Value>
+    </Entry>
+    <Entry>
+      <Key>PlaceTableOrientationPoints</Key>
+      <Value>Click on the detected planes to define the table surface</Value>
+    </Entry>
+    <Entry>
+      <Key>ScreenShotTaken</Key>
+      <Value>Screen shot taken and saved</Value>
+    </Entry>
+    <Entry>
+      <Key>Open</Key>
+      <Value>Open</Value>
+    </Entry>
+  </Resources>
+</Resource>
